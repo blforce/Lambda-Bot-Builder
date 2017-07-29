@@ -1,0 +1,25 @@
+{
+  "name": "lambda-bot-builder",
+  "version": "1.0.0",
+  "description": "A simple node package to allow botbuilder bots to be hosted on AWS Lambda.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blforce/Lambda-Bot-Builder.git"
+  },
+  "keywords": [
+    "botbuilder",
+    "nodejs",
+    "javascript",
+    "bot"
+  ],
+  "author": "Ben Force <benforce@gmail.com> (http://justwriteapps.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blforce/Lambda-Bot-Builder/issues"
+  },
+  "homepage": "https://github.com/blforce/Lambda-Bot-Builder#readme"
+}
