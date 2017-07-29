@@ -1,6 +1,6 @@
 {
   "name": "lambda-bot-builder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple node package to allow botbuilder bots to be hosted on AWS Lambda.",
   "main": "index.js",
   "scripts": {
